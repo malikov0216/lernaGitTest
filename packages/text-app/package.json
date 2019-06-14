@@ -1,9 +1,9 @@
 {
   "name": "text-app",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "private": true,
   "dependencies": {
-    "@project/comp-text": "^1.0.5",
+    "@project/comp-text": "^1.0.6",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
