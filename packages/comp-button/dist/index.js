@@ -41,7 +41,7 @@ function (_Component) {
   _createClass(Button, [{
     key: "render",
     value: function render() {
-      return _react["default"].createElement("button", null, "Changed V2 Hello button");
+      return _react["default"].createElement("button", null, "Changed V3 Hello button");
     }
   }]);
 
