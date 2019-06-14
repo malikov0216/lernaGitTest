@@ -3,7 +3,7 @@ import React, {Component} from 'react'
 class Button extends Component {
     render() {
         return (
-            <button>Changed V5 Hello button</button>
+            <button>Changed V6 Hello button</button>
         )
     }
 }
