@@ -41,7 +41,7 @@ function (_Component) {
   _createClass(Text, [{
     key: "render",
     value: function render() {
-      return _react["default"].createElement("span", null, "Text");
+      return _react["default"].createElement("span", null, "Text V2");
     }
   }]);
 
